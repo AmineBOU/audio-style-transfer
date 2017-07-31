@@ -1,6 +1,6 @@
 # Audio Style Transfer - COSMOS Cluster 9 2017
 
-<p align="center"> <i>Audio Style Transfer</i> aims to create unique audio samples by combining a base audio file and style audio file. We attempted to apply a computer vision technique known as "style transfer" to an image. </p>
+<p align="center"> <i>Audio Style Transfer</i> aims to create unique audio samples by combining a base audio file and style audio file. We do this by applying a computer vision known as "style transfer".</p>
 
 
 <p align="center"> <b>Eric Chang, Mark Endo, John Guibas</b> </p>
