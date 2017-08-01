@@ -1,4 +1,4 @@
-# dubnet
+# Audio Style Transfer
 
 <p align="center"> <i>Audio Style Transfer</i> aims to create unique audio samples by combining a base audio file and style audio file. We do this by applying a computer vision known as "style transfer".</p>
 
