@@ -1,6 +1,6 @@
 # Audio Style Transfer
 
-<p align="center"> <i>Audio Style Transfer</i> aims to create unique audio samples by combining a base audio file and style audio file. We do this by applying a computer vision techique known as "style transfer". We also propose two preprocessing and an alternate dimensional representation of sound to acheive preffered results.</p>
+<p align="center"> <i>Audio Style Transfer</i> aims to create unique audio samples by combining a base audio file and style audio file. We do this by applying a computer vision techique known as "style transfer". We also propose two preprocessing and an alternate dimensional representation of sound to acheive preferred results.</p>
 
 
 <p align="center"> <b>Eric Chang, Mark Endo, John Guibas</b> </p>
