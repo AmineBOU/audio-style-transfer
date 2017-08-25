@@ -5,7 +5,6 @@
 
 <p align="center"> <b>Eric Chang, Mark Endo, John Guibas</b> </p>
 
-<p align="center"> <img src="https://cosmos-ucop.ucdavis.edu/Contents/i/cosmos-logo.png" width="200"> </p>
 
 # Style Tranfer
 
